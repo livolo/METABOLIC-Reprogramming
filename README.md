@@ -1,4 +1,4 @@
-# METAGENOMICS Reprogramming 
+# METABOLICS Reprogramming 
 <b>Characterize Metabolic Alterations in Cisplatin-Resistant vs. Sensitive OSCC</b>
 The resources and references used to build this tutorial are found at the bottom, in the resources section. 
 
